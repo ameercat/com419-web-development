@@ -1,0 +1,35 @@
+h1 {
+    color: green;
+}
+
+li strong {
+    color: red;
+}
+
+#personalInfo {
+    color: yellow;
+}
+
+.Experience {
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+}
+
+a:link{
+    color: red;
+
+}
+a:visited{
+    color: black;
+
+}
+a:active{
+    background: black;
+
+
+}
+a:hover{
+    color: royalblue;
+    font-size: 25px;
+
+}
