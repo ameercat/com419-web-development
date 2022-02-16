@@ -42,8 +42,7 @@ body {
 
 .horntail{
     float: left;
-    height: 50%;
-    padding-left: 5px;
+    padding-left: 15px;
     
 }
 
@@ -51,7 +50,7 @@ body {
     float: right;
     color: white;
     width: 500px;
-    padding-left: 5px;
+    padding-right: 15px;
 
 }
 
@@ -59,4 +58,27 @@ body {
     height: 500px;
     display: flex;
     justify-content:space-between;
+    padding: 3%;
+}
+
+
+.text_two{
+    float: left;
+    color: white;
+    width: 500px;
+    padding-left: 15px;
+}
+
+.willow{
+    float: right;
+    padding-right: 15px;
+    justify-content: space-between;
+
+}
+
+#wrapper_two{
+    height: 500px;
+    display: flex;
+    justify-content:space-between;
+    padding: 3%;
 }
