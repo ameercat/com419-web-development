@@ -3,6 +3,7 @@ body {
     background-color: black
 }
 
+
 .heading{
     background-image: url('banner.jpg');
     color: white;
@@ -12,6 +13,16 @@ body {
     height: 80vh;
     font-size: 5vh;
     text-align: center;
+}
+
+.study{
+    color: white;
+    text-align: center;
+}
+
+
+#danger{
+    color: white;
 }
 
 .menu{
@@ -25,6 +36,25 @@ body {
 
 #menu{
     height: 25vh;
+    display: flex;
+    justify-content:space-between;
+}
+
+.horntail{
+    float: left;
+    height: 100px;
+}
+
+.text_one{
+    float: right;
+    color: white;
+    width: 500px;
+    
+
+}
+
+#wrapper{
+    height: 100vh;
     display: flex;
     justify-content:space-between;
 }
