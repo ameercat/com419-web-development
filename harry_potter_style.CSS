@@ -40,45 +40,34 @@ body {
     justify-content:space-between;
 }
 
-.horntail{
-    float: left;
-    padding-left: 15px;
+.image img{
+    display: flex;
+    height:400px; 
+    widows: 500px;
+    justify-content: space-evenly;
+
     
 }
 
-.text_one{
-    float: right;
+.text{
+    display: flex;
     color: white;
-    width: 500px;
-    padding-right: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 400px;
 
 }
 
-#wrapper{
+.wrapper{
     height: 500px;
     display: flex;
-    justify-content:space-between;
-    padding: 3%;
+    justify-content:space-evenly;
 }
 
 
-.text_two{
-    float: left;
-    color: white;
-    width: 500px;
-    padding-left: 15px;
-}
-
-.willow{
-    float: right;
-    padding-right: 15px;
-    justify-content: space-between;
-
-}
-
-#wrapper_two{
-    height: 500px;
+.text strong{
     display: flex;
-    justify-content:space-between;
-    padding: 3%;
+    justify-content: space-evenly;
 }
+
+
