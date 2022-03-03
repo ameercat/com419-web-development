@@ -1,7 +1,28 @@
 
-body {
-    background-color: black
+@media screen {
+    body {
+        margin: 0;
+        background-color: #000000;
+    }
+    
+    #banner {
+        height: 50vh;
+        border: 1px solid black;
+    }
 }
+
+@media print {     
+    #banner {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
 
 
 .heading{
