@@ -1,0 +1,1 @@
+document.getElementById("cookie").style.display = "block";
