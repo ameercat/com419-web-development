@@ -47,8 +47,24 @@
     color: white;
     width: auto;
     padding: 10px;
-    margin: auto;
-    box-align: center;
-    
+    margin: auto; 
+}
+
+#question_two{
+    display: none;
+    background: #000000;
+    color: white;
+    width: auto;
+    padding: 10px;
+    margin: auto; 
+}
+
+#question_three{
+    display: none;
+    background: #000000;
+    color: white;
+    width: auto;
+    padding: 10px;
+    margin: auto; 
 }
 
