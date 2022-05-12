@@ -43,3 +43,11 @@
     justify-content:space-between;
 }
 
+#cookie{
+    background: #000000;
+    border: 1px solid #00ff73;
+    position: fixed;
+    color: white;
+    bottom: 0;
+    left: 0;
+}
